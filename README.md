@@ -57,7 +57,6 @@ Technologies that I used to develop this api
 - [TypeScript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
 - [Kafka](https://kafka.js.org/)
-- [Kafka](https://kafka.js.org/)
 
 ## 💻 Getting started
 
